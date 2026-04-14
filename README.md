@@ -20,6 +20,10 @@ This workshop uses a real full-stack application (timesheet and billing tracker)
 ## Get started
 Sign in to Cognition through the invite you received in your email.
 
+## Repos Required
+
+[app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet) (already added to your Devin org)
+
 ## Lab 1 — Fix Known Bugs (45 min)
 
 - **Modules:** [Fix UI Bug](../../modules/application-development/fix-ui-bug.md) + [Fix Data Bug](../../modules/application-development/fix-data-bug.md)
@@ -150,51 +154,6 @@ Open the [app_timesheet DeepWiki](https://deepwiki.com/Cognition-Partner-Worksho
 **Target Outcomes:** Security audit report with OWASP Top 10 findings, fixes for critical vulnerabilities, PR with before/after evidence
 
 ---
-
-## Duration Variants
-
-| Duration | Labs | Format | Best For |
-|----------|------|--------|----------|
-| **3.5-4 hours** | Labs 1 + 2 + 3 + 4 | Full workshop | Half-day sessions with all four labs |
-| **3 hours** | Labs 1 + 2 + 4 | Bug fix → feature → security | Skip testing to focus on dev + security |
-| **2.5 hours** | Labs 1 + 2 + 3 | Bug fix → feature → testing | Development-focused, skip security |
-| **2 hours** | Labs 1 + 2 | Bug fix → feature | Quick productivity demo |
-| **1 hour** | Lab 2 only | Feature development showcase | Executive/stakeholder demo |
-
-## Repos Required
-
-- [ ] [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet)
-
-## Module Reference
-
-All modules used in this workshop, with links to the full challenge instructions:
-
-| Lab | Module | Category | Time | Difficulty |
-|-----|--------|----------|------|------------|
-| 1A | [Fix UI Bug](../../modules/application-development/fix-ui-bug.md) | Application Development | 20 min | Beginner |
-| 1B | [Fix Data Bug](../../modules/application-development/fix-data-bug.md) | Application Development | 25 min | Intermediate |
-| 2 | [New Feature Development](../../modules/application-development/new-feature-development.md) | Application Development | 60 min | Intermediate-Advanced |
-| 3 | [Unit Testing](../../modules/testing-qa/unit-testing.md) | Testing & QA | 45 min | Beginner-Intermediate |
-| 4 | [Security Antipatterns](../../modules/security/security-antipatterns.md) | Security | 45 min | Intermediate |
-
-## Additional Modules (for extended or follow-up sessions) - email us if you're interested.
-
-These modules also support `app_timesheet` and can be swapped in or added:
-
-| Module | Category | Time | Use Case |
-|--------|----------|------|----------|
-| [Gather Requirements](../../modules/application-development/gather-requirements.md) | App Dev | 30 min | Pre-development planning exercise |
-| [Test-Driven Development](../../modules/application-development/test-driven-development.md) | App Dev | 60 min | Two-session TDD workflow |
-| [Fix Runtime Bug](../../modules/application-development/fix-runtime-bug.md) | App Dev | 45 min | Open-ended bug hunting |
-| [End-to-End Testing](../../modules/testing-qa/end-to-end-testing.md) | Testing | 60 min | Playwright E2E test authoring |
-| [Linting & Static Analysis](../../modules/testing-qa/linting-static-analysis.md) | Testing | 30 min | Quick beginner-friendly lab |
-| [CI/CD Pipeline](../../modules/devops-cicd/cicd-pipeline.md) | DevOps | 45 min | GitHub Actions workflow creation |
-| [Upgrade Dependencies](../../modules/security/upgrade-dependencies.md) | Security | 45 min | npm audit + dependency upgrades |
-| [Remediate Vulnerabilities](../../modules/security/remediate-vulnerabilities.md) | Security | 60 min | SAST scanning with Trivy |
-| [Observability & Monitoring](../../modules/observability-sre/observability-monitoring.md) | SRE | 60 min | Winston logging + Prometheus metrics |
-| [API Documentation](../../modules/technical-documentation/api-documentation.md) | Docs | 45 min | OpenAPI/Swagger generation |
-| [Code Refactoring & Tech Debt](../../modules/architecture-design/code-refactoring-tech-debt.md) | Architecture | 45 min | Identify and resolve code smells |
-| [Cloud-Native Refactor](../../modules/migration-modernization/cloud-native-refactor.md) | Migration | 60 min | Dockerize + K8s manifests |
 
 ## Key Takeaways
 
