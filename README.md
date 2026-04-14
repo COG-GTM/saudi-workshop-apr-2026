@@ -4,7 +4,7 @@
 
 | **Goal** | Demonstrate how Devin accelerates bug fixing, feature development, testing, and security |
 |---|---|
-| **Duration** | 3-4 hours (half day) |
+| **Duration** | 3-4 hours (spread out over 3 days) |
 | **Audience** | Saudi Digital Authority (SDA) engineers |
 | **Application** | [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet) — React 19 + Node.js/Express + SQLite (full-stack timesheet & billing app) |
 | **Key Modules** | [Fix UI Bug](../../modules/application-development/fix-ui-bug.md), [Fix Data Bug](../../modules/application-development/fix-data-bug.md), [New Feature Development](../../modules/application-development/new-feature-development.md), [Unit Testing](../../modules/testing-qa/unit-testing.md), [Security Antipatterns](../../modules/security/security-antipatterns.md) |
