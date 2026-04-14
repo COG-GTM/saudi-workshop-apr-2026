@@ -7,7 +7,6 @@
 | **Duration** | 3-4 hours (spread out over 3 days) |
 | **Audience** | Saudi Digital Authority (SDA) engineers |
 | **Application** | [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet) — React 19 + Node.js/Express + SQLite (full-stack timesheet & billing app) |
-| **Key Modules** | [Fix UI Bug](../../modules/application-development/fix-ui-bug.md), [Fix Data Bug](../../modules/application-development/fix-data-bug.md), [New Feature Development](../../modules/application-development/new-feature-development.md), [Unit Testing](../../modules/testing-qa/unit-testing.md), [Security Antipatterns](../../modules/security/security-antipatterns.md) |
 
 ## Workshop Narrative
 
@@ -26,8 +25,6 @@ Sign in to Cognition through the invite you received in your email.
 
 ## Lab 1 — Fix Known Bugs (45 min)
 
-- **Modules:** [Fix UI Bug](../../modules/application-development/fix-ui-bug.md) + [Fix Data Bug](../../modules/application-development/fix-data-bug.md)
-- **Repository:** [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet)
 - **Objective:** Fix two known bugs — a visual CSS issue and a data persistence problem — demonstrating Devin's ability to investigate, diagnose, and fix issues across the frontend and backend
 
 ### Bug A: UI Strikethrough Bug (20 min)
@@ -67,8 +64,6 @@ Open the [app_timesheet DeepWiki](https://deepwiki.com/Cognition-Partner-Worksho
 
 ## Lab 2 — New Feature Development (60 min)
 
-- **Module:** [New Feature Development](../../modules/application-development/new-feature-development.md)
-- **Repository:** [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet)
 - **Objective:** Build a complete new feature (backend API + frontend UI + database changes + tests) in a single Devin session
 
 ### Step 1: Paste into Devin
@@ -97,8 +92,6 @@ Open the [app_timesheet DeepWiki](https://deepwiki.com/Cognition-Partner-Worksho
 
 ## Lab 3 — Unit Testing & Coverage (45 min)
 
-- **Module:** [Unit Testing](../../modules/testing-qa/unit-testing.md)
-- **Repository:** [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet)
 - **Objective:** Analyze test coverage gaps and generate meaningful unit tests for the backend API
 
 ### Step 1: Paste into Devin
@@ -127,8 +120,6 @@ Open the [app_timesheet DeepWiki](https://deepwiki.com/Cognition-Partner-Worksho
 
 ## Lab 4 — Security Audit & Remediation (45 min)
 
-- **Module:** [Security Antipatterns](../../modules/security/security-antipatterns.md)
-- **Repository:** [app_timesheet](https://github.com/Cognition-Partner-Workshops/app_timesheet)
 - **Objective:** Run a security code review against the OWASP Top 10 and have Devin fix the most critical findings
 
 ### Step 1: Paste into Devin
